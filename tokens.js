@@ -8,12 +8,12 @@ module.exports = {
         primaryPool: "0x856A1C95bef293de7367b908DF2b63ba30FBdD59"
     },
     glowv2: {
-        title: "GlowV2",
-        contract: "0x05De1dbFCdc876F790371508b97C337640Dcd6a9",
+        title: "FEG",
+        contract: "0xacFC95585D80Ab62f67A14C566C1b7a49Fe91167",
         decimals: 9,
         burn_wallet: "0x000000000000000000000000000000000000dead",
         canBurn: true,
-        primaryPool: "0xdA0f97bB99bb6B796FBF5646E1F0EE2d0e7FC5f8"
+        primaryPool: "0x2Aa763656A92ce1e6E560c3EA76b4C5fca7C6C14"
     },
     enh: {
         title: "Enhance",
