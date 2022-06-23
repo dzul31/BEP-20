@@ -8,7 +8,7 @@ export default function PageHeader({ title, desc }) {
                 <Grid.Container gap={1} justify="space-between" alignItems="center">
                     <Grid>
                         <Text h3 css={{ mb: '0', letterSpacing: .5 }} color="white">
-                            {title ? title : "BscTracker"}
+                            {title ? title : "MelonTracker"}
                         </Text>
                         <Text css={{ mb: '0' }} color="white" size={14}>
                             {desc ? desc : "A better way to track your DeFi Wallet."}
