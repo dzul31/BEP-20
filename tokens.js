@@ -7,7 +7,7 @@ module.exports = {
         canBurn: true,
         primaryPool: "0x856A1C95bef293de7367b908DF2b63ba30FBdD59"
     },
-    glowv2: {
+    feg: {
         title: "FEG",
         contract: "0xacFC95585D80Ab62f67A14C566C1b7a49Fe91167",
         decimals: 9,
