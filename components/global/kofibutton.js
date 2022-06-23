@@ -29,7 +29,7 @@ export default function KofiButton() {
                 <iframe 
                     id='kofiframe' 
                     style={{ border: 0, overflowY: "hidden" }}
-                    src="https://ko-fi.com/ogkingfox/?hidefeed=true&widget=true&embed=true&preview=true" height='630' title='ogkingfox'></iframe>
+                    src="ko-fi.com/melon_/?hidefeed=true&widget=true&embed=true&preview=true" height='630' title='ogkingfox'></iframe>
             </Modal>
         </>
     )
