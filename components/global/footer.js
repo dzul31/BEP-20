@@ -11,7 +11,7 @@ export default function Footer() {
                 <Container gap={3}>
                     <Grid.Container alignItems="center" justify="space-between">
                         <Grid>
-                            <Text size={30} b css={{ lh: 1 }}>BscTracker</Text>
+                            <Text size={30} b css={{ lh: 1 }}>MelonTracker</Text>
                             <Text>
                                 A better way to track your DeFi Wallet.
                             </Text>
@@ -19,7 +19,7 @@ export default function Footer() {
                         <Grid>
                             <Grid.Container>
                                 <Grid>
-                                    <Link href="https://twitter.com/OG_KingFox" target="_blank" rel="nofollow noopener noreferrer">
+                                    <Link href="https://twitter.com/" target="_blank" rel="nofollow noopener noreferrer">
                                         <Button auto light css={{ px: 10 }} color="primary">
                                             <BrandIcon 
                                                 icon="twitter" 
@@ -29,7 +29,7 @@ export default function Footer() {
                                     </Link>
                                 </Grid>
                                 <Grid>
-                                    <Link href="https://discord.com/invite/5BejZeDxWx" target="_blank" rel="nofollow noopener noreferrer">
+                                    <Link href="https://discord.com/invite/" target="_blank" rel="nofollow noopener noreferrer">
                                         <Button auto light css={{ px: 10 }} color="primary">
                                             <BrandIcon 
                                                 icon="discord" 
@@ -49,11 +49,11 @@ export default function Footer() {
                 <Container>
                     <Grid.Container gap={2} alignItems="center" justify="space-between">
                         <Grid>
-                            Copyright &copy; 2022 BscTracker | All Rights Reserved
+                            Copyright &copy; 2022 MelonTracker | All Rights Reserved
                         </Grid>
                         <Grid>
                             <Text>
-                                Want your token added? <a href="mailto:og.kingfox@gmail.com" rel="nofollow">Contact Me</a>
+                                Want your token added? <a href="mailto:og.@gmail.com" rel="nofollow">Contact Me</a>
                             </Text>
                         </Grid>
                     </Grid.Container>
