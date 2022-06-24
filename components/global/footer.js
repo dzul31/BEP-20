@@ -6,6 +6,7 @@ export default function Footer() {
 
     return (
         <>
+   <div className="footer">
         <Card css={{ br: 0, mt: 50 }}>
             <Card.Body css={{ pt: 80, pb: 20 }}>
                 <Container gap={1}>
@@ -61,6 +62,7 @@ export default function Footer() {
                 </Container>
             </Card.Body>
         </Card>
+     </div>
         </>
     )
 }
