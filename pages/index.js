@@ -20,7 +20,7 @@ const tokens = require("../tokens");
 export default function Home() {
 
     // the default token to show
-    const symbol = "sfm";
+    const symbol = "cake";
     
     const [pairId, setPairId] = useState(0);
     const [stats, setStats]   = useState(null);
