@@ -18,9 +18,9 @@ module.exports = {
     
     
     cake: {
-        title: "Cake",
+        title: "Pancake",
         contract: "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
-        decimals: 9,
+        decimals: 18,
         burn_wallet: "0x000000000000000000000000000000000000dead",
         canBurn: true,
         primaryPool: "0x0eD7e52944161450477ee417DE9Cd3a859b14fD0"
