@@ -161,6 +161,8 @@ class Functions {
             return 1_000_000_000;
         } else if (number <= 1_000_000_000_000_000) {
             return 1_000_000_000_000;
+        } else if (number <= 1_000_000_000_000_000_000) {
+            return 1_000_000_000_000_000;
         }
     }
     
@@ -175,7 +177,7 @@ class Functions {
             return "B";
         } else if (number <= 1_000_000_000_000_000) {
             return "TR";
-        } else if (number <= 100_000_000_000_000_000_000) {
+        } else if (number <= 1_000_000_000_000_000_000) {
             return "QD";
         }
     }
