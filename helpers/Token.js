@@ -48,7 +48,7 @@ class Token {
             headers: {
                 'Content-Type': 'application/json',
                 'Accept': 'application/json',
-                'X-API-KEY': "BQYL83K930N4bLE65pJfZTPBe7cPUXPT"
+                'X-API-KEY': "BQYpEoddVosdUgcZtL5PvU1DR6OiGLEx"
             },
             data: {
                 query: "query ($network: EthereumNetwork!, $token: String!, $from: ISO8601DateTime, $till: ISO8601DateTime) { ethereum(network: $network) { transfers(currency: {is: $token} amount: {gt: 0} date: {since: $from, till: $till} ) { currency { symbol } median: amount(calculate: median) average: amount(calculate: average) amount count days: count(uniq: dates) sender_count: count(uniq: senders) receiver_count: count(uniq: receivers) }}}",
