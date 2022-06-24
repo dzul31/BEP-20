@@ -11,7 +11,7 @@ export default function Footer() {
                 <Container gap={3}>
                     <Grid.Container alignItems="center" justify="space-between">
                         <Grid>
-                            <Text size={30} b css={{ lh: 1 }}>MelonTracker</Text>
+                            <Text size={30} b css={{ lh: 1 }}>BETA ; MelonTracker</Text>
                             <Text>
                                 A better way to track your DeFi Wallet.
                             </Text>
