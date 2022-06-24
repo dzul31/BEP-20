@@ -8,7 +8,7 @@ export default function Footer() {
         <>
    <div className="footer">
         <Card css={{ br: 0, mt: 50 }}>
-            <Card.Body css={{ pt: 80, pb: 20 }}>
+            <Card.Body css={{ pt: 40, pb: 20 }}>
                 <Container gap={1}>
                     <Grid.Container alignItems="center" justify="space-between">
                         <Grid>
