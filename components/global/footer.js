@@ -6,44 +6,7 @@ export default function Footer() {
 
     return (
         <>
-        <Card css={{ br: 0, mt: 50 }}>
-            <Card.Body css={{ pt: 40, pb: 20 }}>
-                <Container gap={1}>
-                    <Grid.Container alignItems="center" justify="space-between">
-                        <Grid>
-                            <Text size={30} b css={{ lh: 1 }}>BETA ; MelonTracker</Text>
-                            <Text>
-                                A better way to track your DeFi Wallet.
-                            </Text>
-                        </Grid>
-                        <Grid>
-                            <Grid.Container>
-                                <Grid>
-                                    <Link href="https://twitter.com/" target="_blank" rel="nofollow noopener noreferrer">
-                                        <Button auto light css={{ px: 10 }} color="primary">
-                                            <BrandIcon 
-                                                icon="twitter" 
-                                                size={24} 
-                                                stroke={2}/>
-                                        </Button>
-                                    </Link>
-                                </Grid>
-                                <Grid>
-                                    <Link href="https://discord.com/invite/" target="_blank" rel="nofollow noopener noreferrer">
-                                        <Button auto light css={{ px: 10 }} color="primary">
-                                            <BrandIcon 
-                                                icon="discord" 
-                                                size={24} 
-                                                stroke={2}/>
-                                        </Button>
-                                    </Link>
-                                </Grid>
-                            </Grid.Container>
-                        </Grid>
-                    </Grid.Container>
-                </Container>
-            </Card.Body>
-        </Card>
+        
         <Card css={{ br: 0}}>
             <Card.Body css={{ pt: 0 }}>
                 <Container>
