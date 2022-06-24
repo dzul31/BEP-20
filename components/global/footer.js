@@ -8,7 +8,7 @@ export default function Footer() {
         <>
         <Card css={{ br: 0, mt: 50 }}>
             <Card.Body css={{ pt: 40, pb: 20 }}>
-                <Container gap={3}>
+                <Container gap={1}>
                     <Grid.Container alignItems="center" justify="space-between">
                         <Grid>
                             <Text size={30} b css={{ lh: 1 }}>BETA ; MelonTracker</Text>
