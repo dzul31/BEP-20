@@ -1,11 +1,11 @@
 module.exports = {
-    sfm: {
-        title: "SafeMoon",
-        contract: "0x42981d0bfbaf196529376ee702f2a9eb9092fcb5",
-        decimals: 9,
+    wpaw: {
+        title: "Wrapped PAW",
+        contract: "0x4D1532573f5E4b69296C3f792275e17f0d21d589",
+        decimals: 18,
         burn_wallet: "0x0000000000000000000000000000000000000001",
         canBurn: true,
-        primaryPool: "0x856A1C95bef293de7367b908DF2b63ba30FBdD59"
+        primaryPool: "0x3A28344b008e23a625Fb8251B80CFef7B66eD22D"
     },
     feg: {
         title: "FEGtoken",
