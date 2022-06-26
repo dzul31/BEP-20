@@ -17,6 +17,7 @@ export default function Footer() {
 <Text h3 css={{ mb: '0', letterSpacing: .5 }} color="white">
                            
                             Copyright &copy; 2022 MelonTracker | All Rights Reserved
+</Text>
                         </Grid>
                         <Grid>
                             <Text>
