@@ -14,6 +14,8 @@ export default function Footer() {
                 <Container>
                     <Grid.Container gap={2} alignItems="center" justify="space-between">
                         <Grid>
+<Text h3 css={{ mb: '0', letterSpacing: .5 }} color="white">
+                           
                             Copyright &copy; 2022 MelonTracker | All Rights Reserved
                         </Grid>
                         <Grid>
