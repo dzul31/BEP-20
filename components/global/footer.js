@@ -14,13 +14,15 @@ export default function Footer() {
                 <Container>
                     <Grid.Container gap={2} alignItems="center" justify="space-between">
                         <Grid>
-<Text h3 css={{ mb: '0', letterSpacing: .5 }} color="white">
+<Text css={{ mb: '0', letterSpacing: .5 }} color="white">
                            
                             Copyright &copy; 2022 MelonTracker | All Rights Reserved
 </Text>
                         </Grid>
                         <Grid>
-                            <Text>
+                            
+<Text css={{ mb: '0', letterSpacing: .5 }} color="white">
+                           
                                 Want your token added? <a href="mailto:og.@gmail.com" rel="nofollow">Contact Me</a>
                             </Text>
                         </Grid>
