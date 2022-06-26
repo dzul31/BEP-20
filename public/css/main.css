@@ -138,7 +138,7 @@ a.token {
 }
 
 .footer {
-  padding:30px 0;
-  background-color:#a19ccd;
-  
+  padding-top: 90px;
+    padding-bottom: 50px;
+    background: -webkit-radial-gradient(0% 100%, ellipse cover, rgba(247, 0, 255, 0) 40%, rgba(153, 103, 23, 0) ), -webkit-linear-gradient(top, rgba(6, 38, 51, 0) 0%, rgba(161, 14, 206, 0) 100%), -webkit-linear-gradient(-45deg, #06051b 0%, #541f51 100%);
 }
