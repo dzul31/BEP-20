@@ -11,7 +11,7 @@ export default function DexChart({ data }) {
             <Card.Body css={{ p: 0 }}>
 
             { data && 
-                 <iframe width="100%" height="750" frameBorder="0" scrolling="no" src="https://coinbrain.com/embed/${data && data.token.address}?chainId=56&theme=dark&padding=16&chart=1&trades=1"></iframe>
+                 <iframe width="100%" height="750" frameBorder="0" scrolling="no" src="https://coinbrain.com/embed/${data && data.token.contract}?chainId=56&theme=dark&padding=16&chart=1&trades=1"></iframe>
             }
             </Card.Body>
         </Card>
