@@ -1,11 +1,11 @@
 module.exports = {
-    wpaw: {
-        title: "Spirit",
-        contract: "0x5Cc61A78F164885776AA610fb0FE1257df78E59B",
+    babydoge: {
+        title: "BabyDoge",
+        contract: "0xc748673057861a797275CD8A068AbB95A902e8de",
         decimals: 18,
         burn_wallet: "0x0000000000000000000000000000000000000001",
         canBurn: true,
-        primaryPool: "0x30748322B6E34545DBe0788C421886AEB5297789"
+        primaryPool: "0xc748673057861a797275CD8A068AbB95A902e8de"
     },
     feg: {
         title: "FEGtoken",
