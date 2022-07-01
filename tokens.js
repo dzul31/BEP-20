@@ -1,5 +1,5 @@
 module.exports = {
-    babydoge: {
+    baby: {
         title: "BabyDoge",
         contract: "0xc748673057861a797275CD8A068AbB95A902e8de",
         decimals: 18,
