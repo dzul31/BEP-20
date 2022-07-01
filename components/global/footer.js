@@ -16,7 +16,7 @@ export default function Footer() {
                         <Grid>
 <Text css={{ mb: '0', letterSpacing: .5 }} color="white">
                            
-                            Copyright &copy; 2022 MelonTracker | All Rights Reserved
+                            Copyright &copy; 2022 angelcrypt_ tracker | All Rights Reserved
 </Text>
                         </Grid>
                         <Grid>
