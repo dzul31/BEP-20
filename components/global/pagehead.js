@@ -20,7 +20,7 @@ export default function PageHead({...props}) {
 
     return (
         <Head>
-            <title>{props.title && props.title} | MelonTracker</title>
+            <title>{props.title && props.title} | Angeltrack</title>
             <meta name="description" content={props.desc && props.desc} />
             <meta name="keywords" content="safemoon,evergrow,affinity,glowtoken,puli,bsc,binance,binance us,candlestick,charts,crypto"/>
             <link rel="shortcut icon" type="image/png" href="/img/favicon.png"/>
