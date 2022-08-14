@@ -8,7 +8,7 @@ const symbols = Object.keys(tokens);
 export default function SearchBar({ defaultValue, activeToken }) {
 
     const router = useRouter();
-    const [active, setActive] = useState(activeToken ? activeToken : "sfm");
+    const [active, setActive] = useState(activeToken ? activeToken : "feg");
 
     useEffect(async() => {
 
