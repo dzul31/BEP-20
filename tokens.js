@@ -1,11 +1,11 @@
 module.exports = {
     baby: {
         title: "BabyDoge",
-        contract: "0xc748673057861a797275CD8A068AbB95A902e8de",
+        contract: "0x603ee2f233ed5e36b55825d46b439c97990582fa",
         decimals: 18,
         burn_wallet: "0x0000000000000000000000000000000000000001",
         canBurn: true,
-        primaryPool: "0xc748673057861a797275CD8A068AbB95A902e8de"
+        primaryPool: "0x603ee2f233ed5e36b55825d46b439c97990582fa"
     },
     feg: {
         title: "FEGtoken",
